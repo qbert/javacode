@@ -51,7 +51,7 @@ public class App {
  
     	// sample URL
      //   String url = "http://ip.jsontest.com/";
-        String url = "http://140.86.15.104:3000/shield/33/45/green/qbert";
+        String url = "http://129.144.148.87:3000/shield/33/45/green/qbert";
         CloseableHttpResponse response = null;
  
         try {
